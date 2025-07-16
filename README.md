@@ -53,6 +53,14 @@
 | [2025.07.02](./2025.07.02/) | **[Project]** `Azure Vision & Face` API를 활용한 이미지 분석 앱 기반 구축 | `Gradio`, `Azure AI Services` |
 | [2025.07.03](./2025.07.02/) | **[Project]** 이미지 분석 앱 UX 고도화: 동적 UI 및 `Pillow` 결과 처리 | `Gradio`, `Pillow` |
 | [2025.07.04](./2025.07.04/) | **[Project]** `Azure Custom Vision` SDK를 활용한 객체 탐지 모델 구축 자동화 | `Azure Custom Vision`, `Pillow` |
+| [2025.07.07](./2025.07.07/) | **[CV]** `OpenCV` 및 `YOLOv3`를 활용한 객체 탐지 | `OpenCV`, `YOLO` |
+| [2025.07.08](./2025.07.08/) | **[CV]** `YOLOv3`와 `YOLOv8` 모델 비교 및 실습 | `YOLO`, `Ultralytics` |
+| Web Frontend |
+| [2025.07.09](./2025.07.09/) | **[HTML]** `HTML` 기본 및 시맨틱 태그 학습 | `HTML` |
+| [2025.07.10](./2025.07.10/) | **[CSS]** `CSS`를 활용한 웹 페이지 스타일링 및 반응형 웹 구현 | `CSS` |
+| [2025.07.11](./2025.07.11/) | **[JavaScript]** `JavaScript` 기본 문법 및 핵심 개념 | `JavaScript` |
+| [2025.07.14](./2025.07.14/) | **[JavaScript]** `JavaScript` 심화 (함수형 프로그래밍, 비동기 처리, 웹 API) | `JavaScript` |
+| [2025.07.15](./2025.07.15/) | **[JavaScript]** `JavaScript ES6+` 고급 문법 및 미니 프로젝트 | `JavaScript`, `ES6+` |
 **_참고:_** 위의 표는 학습 진도에 따라 계속 업데이트될 예정입니다. 각 날짜 폴더에서 자세한 학습 내용을 확인하실 수 있습니다.
 
 
