@@ -61,6 +61,8 @@
 | [2025.07.11](./2025.07.11/) | **[JavaScript]** `JavaScript` 기본 문법 및 핵심 개념 | `JavaScript` |
 | [2025.07.14](./2025.07.14/) | **[JavaScript]** `JavaScript` 심화 (함수형 프로그래밍, 비동기 처리, 웹 API) | `JavaScript` |
 | [2025.07.15](./2025.07.15/) | **[JavaScript]** `JavaScript ES6+` 고급 문법 및 미니 프로젝트 | `JavaScript`, `ES6+` |
+| Django & React Native  |
+| [2025.08.04](./2025.08.04/) | **[Django & React Native]** Django와 React Native를 활용한 풀스택 뉴스 앱 개발 입문 | `Django`, `React Native`, `Expo` |
 **_참고:_** 위의 표는 학습 진도에 따라 계속 업데이트될 예정입니다. 각 날짜 폴더에서 자세한 학습 내용을 확인하실 수 있습니다.
 
 
